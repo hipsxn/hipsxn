@@ -1,0 +1,23 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="800" height="200" fill="#FFFFFF"/>
+
+  <!-- Title -->
+  <text x="50%" y="45%" text-anchor="middle" fill="#ffffff"
+        font-size="28" font-family="Segoe UI, Arial, sans-serif">
+    Game Developer — Artist
+  </text>
+
+  <!-- Divider -->
+  <line x1="250" y1="100" x2="550" y2="100"
+        stroke="#334155" stroke-width="2"/>
+
+  <!-- Tagline -->
+  <text x="50%" y="140" text-anchor="middle" fill="#94a3b8"
+        font-size="16" font-family="Segoe UI, Arial, sans-serif"
+        font-style="italic">
+    keeping creativity alive
+  </text>
+
+</svg>
