@@ -1,20 +1,30 @@
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background -->
-  <rect width="800" height="200" fill="#FFFFFF"/>
+  <!-- Magnolia background -->
+  <rect width="800" height="200" fill="#F8F4E3"/>
 
-  <!-- Title -->
-  <text x="50%" y="45%" text-anchor="middle" fill="#ffffff"
-        font-size="28" font-family="Segoe UI, Arial, sans-serif">
-    Game Developer — Artist
+  <!-- Main title -->
+  <text x="50%" y="35%" text-anchor="middle" fill="#1f2328"
+        font-size="32" font-weight="600"
+        font-family="Segoe UI, Arial, sans-serif"
+        letter-spacing="0.5">
+    Game Developer
   </text>
 
-  <!-- Divider -->
-  <line x1="250" y1="100" x2="550" y2="100"
-        stroke="#334155" stroke-width="2"/>
+  <!-- Sub title -->
+  <text x="50%" y="55%" text-anchor="middle" fill="#8c959f"
+        font-size="20" font-weight="500"
+        font-family="Segoe UI, Arial, sans-serif"
+        letter-spacing="1">
+    — ARTIST —
+  </text>
+
+  <!-- Divider (moved down) -->
+  <line x1="240" y1="125" x2="560" y2="125"
+        stroke="#8c959f" stroke-width="1.5"/>
 
   <!-- Tagline -->
-  <text x="50%" y="140" text-anchor="middle" fill="#94a3b8"
+  <text x="50%" y="165" text-anchor="middle" fill="#57606a"
         font-size="16" font-family="Segoe UI, Arial, sans-serif"
         font-style="italic">
     keeping creativity alive
