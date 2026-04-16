@@ -1,8 +1,5 @@
 <div align="center">
-  
-## Game Developer - Artist
-
-keeping creativity alive
+  <img src="banner.svg"/>
 </div>
 
 ## 🛠️ Tech Stack
