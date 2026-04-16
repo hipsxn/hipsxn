@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  
+## Game Developer - Artist
 
-<!--
-**hipsxn/hipsxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+keeping creativity alive
+</div>
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Engines
+<img src="https://skillicons.dev/icons?i=godot,unity" />
+
+### Languages
+<img src="https://skillicons.dev/icons?i=cs,html,css,js,discordjs" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=vscode,ps,blender,figma,discord,githubr" />
